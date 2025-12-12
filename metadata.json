@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Angel 2.1",
+  "description": "A private, low-latency AI psychological assistant focused on voice interaction and emotional intelligence.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
